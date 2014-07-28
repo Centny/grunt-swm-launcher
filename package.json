@@ -1,0 +1,22 @@
+{
+  "name": "grunt-swm-launcher",
+  "description": "grunt selenium webdriver manager launcher",
+  "version": "0.0.1",
+  "keywords": [
+    "grunt",
+    "selenium",
+    "webdriver",
+    "manager",
+    "launcher"
+  ],
+  "main": "swm-launcher.js",
+  "license": "GNU",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Centny/grunt-swm-launcher.git"
+  },
+  "readmeFilename": "README.md"
+}
