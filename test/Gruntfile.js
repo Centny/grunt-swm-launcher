@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-shell');
-  grunt.loadTasks('../');
+  grunt.loadTasks('../tasks');
   // grunt.loadNpmTasks('grunt-selenium-launcher');
   // grunt.loadNpmTasks('grunt-contrib-watch');
   // grunt.loadNpmTasks('grunt-contrib-concat');
