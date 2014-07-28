@@ -9,7 +9,6 @@
     "manager",
     "launcher"
   ],
-  "main": "swm-launcher.js",
   "license": "GNU",
   "scripts": {
     "test": "node test"
